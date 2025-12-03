@@ -1,7 +1,4 @@
-# [ai-platform]
-
-[One or two sentences describing what this platform does. Mention concepts like “RAG”, “streaming”, or “scaling”.]
-A high-throughput, multi-service RAG platform, using streaming data ingestion and asyncronous APIs.
+# ai-platform
 ---
 
 ## 🏗️ Architecture
